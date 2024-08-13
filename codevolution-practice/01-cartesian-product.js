@@ -19,3 +19,6 @@ const D = [3, 4, 5]
 
 // console.log(cartesianProduct(A, B))
 console.log(cartesianProduct(C, D))
+
+
+// Big-O = O(n^2)
